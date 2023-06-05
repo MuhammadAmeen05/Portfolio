@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.089236e2.css",
+    "main.js": "/static/js/main.ee28182b.js",
+    "static/media/movix.PNG": "/static/media/movix.fa77503671f41015e0ab.PNG",
+    "static/media/Youtube.PNG": "/static/media/Youtube.03b18f573dd02ca90c13.PNG",
+    "static/media/watch.PNG": "/static/media/watch.9d285a91d32b05a6283a.PNG",
+    "static/media/newsApp2.PNG": "/static/media/newsApp2.21df2499affa8eb4b52e.PNG",
+    "static/media/ecommerce.PNG": "/static/media/ecommerce.d1b34339f98b08b089ef.PNG",
+    "static/media/facebook_UI.PNG": "/static/media/facebook_UI.230136c7ad8e6e4a8055.PNG",
+    "static/media/bannerBG.png": "/static/media/bannerBG.a84c59cac86eeaeec80b.png",
+    "static/media/CrudApp.png": "/static/media/CrudApp.8cd99f5d44326fea789f.png",
+    "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/Logo.png": "/static/media/Logo.93a80045e450c63d1b80.png",
+    "static/media/Expense_tracker.PNG": "/static/media/Expense_tracker.f28ada46a39d619b89f5.PNG",
+    "static/media/Calculator2.PNG": "/static/media/Calculator2.6adc08b82519a62c4e86.PNG",
+    "index.html": "/index.html",
+    "main.089236e2.css.map": "/static/css/main.089236e2.css.map",
+    "main.ee28182b.js.map": "/static/js/main.ee28182b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.089236e2.css",
+    "static/js/main.ee28182b.js"
+  ]
+}
